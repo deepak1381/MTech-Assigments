@@ -1,0 +1,15 @@
+Develop a Java program for a simple processor simulator. The simulator should have following features.
+
+1.	The output executable should take an input file containing a program containing machine codes and it should output the result to a GUI. The output should contain the status of all registers and required memory contents.
+2.	Following instructions should be supported by the simulator.
+
+•	MOVE data from memory
+•	MOVE data to memory
+•	ADD the contents of two registers and put the output in one of the register
+•	SUBTRACT the content of one register from another registers and put the output in one of the register
+•	MULTIPLY the contents of two registers and put the output in one of the register
+•	INCREMENT the contents of one register and put the output in the same register
+•	DECREMENT the contents of one register and put the output in the same register
+•	Logically AND the contents of two registers and put the output in one of the register
+•	Logically OR the contents of two registers and put the output in one of the register
+•	Logically XOR the contents of two registers and put the output in one of the register
